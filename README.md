@@ -3,5 +3,6 @@
 # Fineeasz_bitki
 **Created by Fineeasz & ExileRP**
 <br>
-Bitki typu 
+Bitki typu:
 <a href="https://discord.gg/exilerp"> ExileRP</a>
+Support Discord: <a href="https://discord.gg/topleaks"> TopLeaks</a>
