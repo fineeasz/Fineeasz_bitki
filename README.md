@@ -5,4 +5,5 @@
 <br>
 Bitki typu:
 <a href="https://discord.gg/exilerp"> ExileRP</a>
+<br>
 Support Discord: <a href="https://discord.gg/topleaks"> TopLeaks</a>
