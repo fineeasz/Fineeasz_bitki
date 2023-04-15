@@ -2,4 +2,4 @@
 
 # Fineeasz_bitki
 **Created by Fineeasz**
-**Bitki typu ExileRP, Cloowns.cool
+**Bitki typu ExileRP, Cloowns.cool**
