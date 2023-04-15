@@ -3,5 +3,6 @@
 # Fineeasz_bitki
 **Created by Fineeasz**
 <br>
-**Bitki typu ExileRP, Cloowns.cool**
+**Bitki typu 
 <a href="https://discord.gg/exilerp"> ExileRP</a>
+**
